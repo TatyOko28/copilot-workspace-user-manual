@@ -28,7 +28,7 @@ We are experimenting with a feature that allows Copilot Workspace to utilize ref
 
 ### Use code search during task analysis (🥼)
 
-We are experimenting with a feature that allows Copilot Workspace to utilize code search during task analysis. This helps Copilot Workspace identify relevant files and code snippets more effectively, improving the overall accuracy and relevance of the generated specifications and plans. Enable this using the "Use code search during task analysis" feature in Copilot Workspace. Note that this experiment may result in slower completion times for spec/plan generation, but will cause Copilot Workspace to be more "focused" on your codebase.
+We are experimenting with a feature that allows Copilot Workspace to utilize code search during task analysis. This helps Copilot Workspace identify relevant files and code snippets more effectively, improving the overall accuracy and relevances of the generated specifications and plans. Enable this using the "Use code search during task analysis" feature in Copilot Workspace. Note that this experiment may result in slower completion times for spec/plan generation, but will cause Copilot Workspace to be more "focused" on your codebase.
 
 ### Clarify ambiguous specifications (🥼)
 
